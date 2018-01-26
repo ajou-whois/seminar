@@ -1,6 +1,6 @@
 # 2018 Seminar
 
-## [2017 January Seminar](https://github.com/ajou-whois/seminar/tree/master/2018/2018_JAN)
+## [2018 January Seminar](https://github.com/ajou-whois/seminar/tree/master/2018/2018_JAN)
 
 ### Day1(20180127)
 
