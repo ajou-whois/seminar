@@ -1,4 +1,4 @@
-# 20171116 Seminar
+# 20180124 Seminar
 
 ## Abex CrackMe 2 패치하기 by 신동석
 
